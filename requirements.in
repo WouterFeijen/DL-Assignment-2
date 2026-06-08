@@ -10,3 +10,4 @@ numpy
 jupyter
 seaborn
 scikit-learn
+torch-geometric
