@@ -16,8 +16,8 @@ __pycache__/
 *.pyd
 
 # Data and Models
-data/
-datasets/
+#! data/
+#! datasets/
 *.pt
 #! *.pth
 *.h5
