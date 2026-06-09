@@ -19,7 +19,7 @@ __pycache__/
 data/
 datasets/
 *.pt
-# *.pth
+#! *.pth
 *.h5
 
 # OS specific
