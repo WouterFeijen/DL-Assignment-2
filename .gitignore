@@ -18,8 +18,8 @@ __pycache__/
 # Data and Models
 #! data/
 #! datasets/
-*.pt
-# *.pth
+#! *.pt
+#! *.pth
 *.h5
 
 # OS specific
